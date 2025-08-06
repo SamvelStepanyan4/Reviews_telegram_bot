@@ -19,7 +19,7 @@ Welcome to the **Reviews Telegram Bot**! 🎉 This super cool Telegram bot analy
 
 1. **Clone the Repo** 🖥️:
    ```bash
-   git clone https://github.com/your-username/Reviews_telegram_bot.git
+   git clone https://github.com/SamvelStepanyan4/Reviews_telegram_bot.git
    cd Reviews_telegram_bot
    ```
 
